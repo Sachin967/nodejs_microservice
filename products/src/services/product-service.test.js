@@ -1,6 +1,6 @@
 // which service it is
 describe('ProductService', () => {
-  // which function
+  // which function is it is 
   describe('CreateProduct', () => {
     // which scenario are we testing
     test('validate user inputs', () => {})
